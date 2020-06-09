@@ -80,9 +80,12 @@ def main():
 ## Closure Fanatic
 
 ```python
+from functools import wraps
+
 def closo_fibo_stream():
     # precious closures
     a, b = 0, 1
+    @wraps
     def wrapper(*args, **kwargs):
         nonlocal a, b
         current = a
