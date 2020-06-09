@@ -11,7 +11,8 @@
   </p>
 </p>
 
-## 10 ways to fibonacci series
+
+## By professionals
 
 - [Functional prodigy](#functional-prodigy)
 - [Meta functional expert](#meta-functional-expert)
