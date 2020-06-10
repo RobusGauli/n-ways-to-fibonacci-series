@@ -6,7 +6,7 @@
   <h3 align="center">10 ways to Fibonacci series</h3>
 
   <p align="center">
-    because I'm bored and softwares are broken. Don't believe me? 
+    because I'm bored and software are broken. Don't believe me? 
     <br>
   </p>
 </p>
