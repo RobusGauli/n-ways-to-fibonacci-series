@@ -3,7 +3,7 @@
     <img src="http://www.epsilones.com/material/artes/027-fibonacci-pisa.jpg" alt="statue" width=72 height=72>
   </a>
 
-  <h3 align="center">10 ways to Fibonacci series</h3>
+  <h3 align="center">11 ways to Fibonacci series</h3>
 
   <p align="center">
     because I'm bored and software are broken. Don't believe me? 
@@ -11,12 +11,14 @@
   </p>
 </p>
 
+> Warning: Not recommended for fainted :heart:  Enjoy :metal:
 
-## By professionals
+## By professionals 
 
 - [Functional prodigy](#functional-prodigy)
 - [Meta functional expert](#meta-functional-expert)
 - [One liner wizard](#one-liner-wizard)
+- [The Librarian](#the-librarian)
 - [Classy theorist](#classy-theorist)
 - [Closure fanatic](#closure-fanatic)
 - [Lazy idealist](#lazy-idealist)
@@ -51,6 +53,20 @@ def main():
 
 ```python
 f = lambda n: n if n <= 1 else f(n-1) + f(n-2)  # f and not fib because functional laws
+```
+
+## The Librarian
+
+```shell
+pip install fibonacci
+```
+
+```python
+from fibonacci import fibo
+
+series = [fibo(n) for n in range(10)]
+print(series) 
+
 ```
 
 ## Classy Theorist
@@ -197,4 +213,3 @@ def fib(n):
 
 ## Thanks
 
-Enjoy :metal:
