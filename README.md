@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://example.com/">
+  <a href="#">
     <img src="http://www.epsilones.com/material/artes/027-fibonacci-pisa.jpg" alt="statue" width=72 height=72>
   </a>
 
